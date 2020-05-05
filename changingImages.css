@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: black;
+}
+#left {
+    width: 50%;
+    float: left;
+}
+#right {
+    width: 50%;
+    float: right;
+}
+div {
+    text-align: center;
+}
